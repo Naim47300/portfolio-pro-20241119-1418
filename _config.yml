@@ -1,0 +1,7 @@
+﻿title: Portfolio Professionnel | Naïm Ragot
+description: Portfolio professionnel présentant mes compétences en développement et en administration système
+theme: jekyll-theme-cayman
+google_analytics: # À configurer plus tard
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
